@@ -1,0 +1,18 @@
+{
+  "published": [
+    "S-101",
+    "S-105",
+    "S-106",
+    "S-108"
+  ],
+  "rejected": {
+    "S-102": "insufficient_content",
+    "S-103": "off_topic",
+    "S-104": "transcript_unavailable",
+    "S-107": "transcript_unavailable"
+  },
+  "followup_created": [
+    "S-103",
+    "S-107"
+  ]
+}
