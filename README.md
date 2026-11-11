@@ -1,0 +1,2 @@
+# youtube-transcript_filesystem_fetch_github_1404_talkdigest_k7m2x9
+Monthly devrel talk digest archive
