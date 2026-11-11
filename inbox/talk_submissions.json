@@ -1,0 +1,94 @@
+{
+  "month": "2026-11",
+  "generated_at": "2026-11-11 15:02:00 Wednesday",
+  "submissions": [
+    {
+      "submission_id": "S-101",
+      "title": "Scaling Neural Networks for Production",
+      "video_url": "https://www.youtube.com/watch?v=2g3l0Xw1TAA",
+      "track": "ai-ml",
+      "priority": "high",
+      "submitter": "Priya Raman",
+      "submitted_at": "2026-10-27",
+      "transcript_archive": "transcripts/S-101.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-101.txt"
+    },
+    {
+      "submission_id": "S-102",
+      "title": "CSS Grid in Ten Minutes",
+      "video_url": "https://www.youtube.com/watch?v=cSSgrID0abc",
+      "track": "web-dev",
+      "priority": "medium",
+      "submitter": "Diego Santos",
+      "submitted_at": "2026-10-28",
+      "transcript_archive": "transcripts/S-102.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-102.txt"
+    },
+    {
+      "submission_id": "S-103",
+      "title": "How We Hire Platform Engineers",
+      "video_url": "https://www.youtube.com/watch?v=hireTeamN01",
+      "track": "infra",
+      "priority": "high",
+      "submitter": "Maya Lefevre",
+      "submitted_at": "2026-10-28",
+      "transcript_archive": "transcripts/S-103.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-103.txt"
+    },
+    {
+      "submission_id": "S-104",
+      "title": "Zero Trust Rollout (recording unavailable)",
+      "video_url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "track": "security",
+      "priority": "low",
+      "submitter": "Tomas Beck",
+      "submitted_at": "2026-10-29",
+      "transcript_archive": null,
+      "transcript_url": null
+    },
+    {
+      "submission_id": "S-105",
+      "title": "Debugging React Apps in the Browser",
+      "video_url": "https://www.youtube.com/watch?v=bR3actApp01",
+      "track": "web-dev",
+      "priority": "high",
+      "submitter": "Nina Okafor",
+      "submitted_at": "2026-10-29",
+      "transcript_archive": "transcripts/S-105.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-105.txt"
+    },
+    {
+      "submission_id": "S-106",
+      "title": "Inside Transformer Inference Engines",
+      "video_url": "https://www.youtube.com/watch?v=tr4nsf3rIn",
+      "track": "ai-ml",
+      "priority": "medium",
+      "submitter": "Owen Park",
+      "submitted_at": "2026-10-30",
+      "transcript_archive": "transcripts/S-106.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-106.txt"
+    },
+    {
+      "submission_id": "S-107",
+      "title": "Kubernetes Upgrade Retrospective",
+      "video_url": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
+      "track": "infra",
+      "priority": "high",
+      "submitter": "Lena Fischer",
+      "submitted_at": "2026-10-30",
+      "transcript_archive": null,
+      "transcript_url": null
+    },
+    {
+      "submission_id": "S-108",
+      "title": "Hardening Authentication with Modern Encryption",
+      "video_url": "https://www.youtube.com/watch?v=secure4uth1",
+      "track": "security",
+      "priority": "medium",
+      "submitter": "Rafael Moreno",
+      "submitted_at": "2026-10-31",
+      "transcript_archive": "transcripts/S-108.txt",
+      "transcript_url": "https://raw.githubusercontent.com/knobbyintens/youtube-transcript_filesystem_fetch_github_1404_transcripts_k7m2x9/main/transcripts/S-108.txt"
+    }
+  ]
+}
